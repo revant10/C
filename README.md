@@ -9,3 +9,5 @@
 
 - Hello World
 - DataSizes
+- CLI
+- User Input
