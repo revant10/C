@@ -11,3 +11,4 @@
 - DataSizes
 - CLI
 - User Input
+- Type Casting
