@@ -5,10 +5,14 @@
 ### Command to execute: ./a.out
 
 
-1. Basics
+#### 1. Basics
 
 - Hello World
 - DataSizes
 - CLI
 - User Input
 - Type Casting
+
+#### 2. Arithmetic Operations
+
+- Addition
