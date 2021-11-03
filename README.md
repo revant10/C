@@ -16,3 +16,4 @@
 #### 2. Arithmetic Operations
 
 - Addition
+- Subtraction
