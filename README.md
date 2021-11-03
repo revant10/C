@@ -18,3 +18,4 @@
 - Addition
 - Subtraction
 - Multiplication
+- Division
