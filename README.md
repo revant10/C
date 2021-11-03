@@ -19,3 +19,4 @@
 - Subtraction
 - Multiplication
 - Division
+- Remainder
