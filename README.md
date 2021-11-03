@@ -17,3 +17,4 @@
 
 - Addition
 - Subtraction
+- Multiplication
