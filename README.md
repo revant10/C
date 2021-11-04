@@ -26,3 +26,4 @@
 - if-else
 - if-else Ladder
 - Switch Case
+- Ternary / Conditional Operator
