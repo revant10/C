@@ -20,3 +20,7 @@
 - Multiplication
 - Division
 - Remainder
+
+#### 3. Decision Making
+
+- if-else
