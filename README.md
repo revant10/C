@@ -25,3 +25,4 @@
 
 - if-else
 - if-else Ladder
+- Switch Case
