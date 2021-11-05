@@ -27,3 +27,7 @@
 - if-else Ladder
 - Switch Case
 - Ternary / Conditional Operator
+
+#### 4. Loops
+
+- For Loop
