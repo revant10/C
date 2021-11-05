@@ -31,3 +31,4 @@
 #### 4. Loops
 
 - For Loop
+- While Loop
