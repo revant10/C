@@ -34,3 +34,4 @@
 - While Loop
 - Do-While Loop
 - Nested Loops
+- Break Statement
