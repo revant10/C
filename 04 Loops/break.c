@@ -19,6 +19,7 @@ void main()
 
     // for while loop un-comment the following code
     /*
+    i = 1;
     while (i < 21) 
     {
         if (i == 15)
