@@ -36,3 +36,4 @@
 - Nested Loops
 - Break Statement
 - Continue Statement
+- Goto Statement
