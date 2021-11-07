@@ -41,3 +41,4 @@
 #### Pointers
 
 - pointer1.c
+- Null Pointer
