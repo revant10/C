@@ -10,10 +10,10 @@ void main()
     // store address of i in pointer variable
     ip = &i;  
 
-    printf("Address of i variable: %x\n", &i);
+    printf("Address of i variable: %p\n", &i);
 
     // address stored in pointer variable
-    printf("Address stored in ip variable: %x\n", ip);
+    printf("Address stored in ip variable: %p\n", ip);
 
     // access the value using the pointer
     printf("Value of *ip variable: %d\n", *ip);

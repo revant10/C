@@ -40,5 +40,5 @@
 
 #### Pointers
 
-- pointer1.c
+- Pointer Basics
 - Null Pointer
