@@ -44,3 +44,4 @@
 - Null Pointer
 - Array of Pointers
 - Pointer to Pointer
+- Pointer Arithmetic
