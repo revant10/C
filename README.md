@@ -42,3 +42,4 @@
 
 - Pointer Basics
 - Null Pointer
+- Array of Pointers
