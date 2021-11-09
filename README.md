@@ -38,10 +38,14 @@
 - Continue Statement
 - Goto Statement
 
-#### Pointers
+#### 5. Pointers
 
 - Pointer Basics
 - Null Pointer
 - Array of Pointers
 - Pointer to Pointer
 - Pointer Arithmetic
+
+#### 6. Functions
+
+- Function Basics
