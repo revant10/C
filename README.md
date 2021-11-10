@@ -51,3 +51,7 @@
 - Function Basics
 - Call by Value
 - Call by Reference
+
+#### 7. Arrays
+
+- Array Basics
