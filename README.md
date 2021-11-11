@@ -46,6 +46,7 @@
 - Pointer to Pointer
 - Pointer Arithmetic
 - Passing Pointer to Function
+- Return Pointer from Function
 
 #### 6. Functions
 
