@@ -45,6 +45,7 @@
 - Array of Pointers
 - Pointer to Pointer
 - Pointer Arithmetic
+- Passing Pointer to Function
 
 #### 6. Functions
 
