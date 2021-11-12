@@ -66,3 +66,4 @@
 
 - Copying String
 - String Concatenation
+- String Length
