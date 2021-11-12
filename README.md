@@ -61,3 +61,7 @@
 - Passing Array to Function
 - Return Array from Function
 - Pointer to an Array
+
+#### 8. Strings
+
+- Copying String
