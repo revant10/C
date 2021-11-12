@@ -65,3 +65,4 @@
 #### 8. Strings
 
 - Copying String
+- String Concatenation
