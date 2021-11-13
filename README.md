@@ -68,3 +68,4 @@
 - String Concatenation
 - String Length
 - String Comparison
+- Substring
