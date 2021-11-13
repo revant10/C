@@ -67,3 +67,4 @@
 - Copying String
 - String Concatenation
 - String Length
+- String Comparison
