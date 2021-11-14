@@ -69,3 +69,4 @@
 - String Length
 - String Comparison
 - Substring
+- Finding character in string
