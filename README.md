@@ -70,3 +70,7 @@
 - String Comparison
 - Substring
 - Finding character in string
+
+#### 9. File IO
+
+- Reading a File
