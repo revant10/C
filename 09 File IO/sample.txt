@@ -1,0 +1,2 @@
+This is the original file.
+The contents will be copied to 'sample_copy.txt' file.
