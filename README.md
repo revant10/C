@@ -77,3 +77,7 @@
 - Writing to a File
 - Copying a File
 - Appending to a file
+
+#### 10. Structures
+
+- Structure Basics
