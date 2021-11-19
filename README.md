@@ -89,3 +89,4 @@
 #### 12. Miscellaneous
 
 - Odd Even
+- Prime Number
