@@ -90,3 +90,4 @@
 
 - Odd Even
 - Prime Number
+- Factorial
