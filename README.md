@@ -91,3 +91,4 @@
 - Odd Even
 - Prime Number
 - Factorial
+- Fibonacci
