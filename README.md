@@ -92,3 +92,4 @@
 - Prime Number
 - Factorial
 - Fibonacci
+- Armstrong Number
