@@ -93,3 +93,4 @@
 - Factorial
 - Fibonacci
 - Armstrong Number
+- Palindrome Number
