@@ -3,6 +3,7 @@
 ## Linux (Ubuntu):
 ### Command to compile: gcc _program-name_.c
 ### Command to execute: ./a.out
+### To compile file containing <math.h>: gcc program-name.c _-lm_
 
 
 #### 1. Basics
@@ -94,3 +95,4 @@
 - Fibonacci
 - Armstrong Number
 - Palindrome Number
+- Real Roots of Quadratic Equation
