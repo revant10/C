@@ -97,3 +97,4 @@
 - Palindrome Number
 - Real Roots of Quadratic Equation
 - Floyd's Triangle
+- Prime Factors
