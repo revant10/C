@@ -99,3 +99,4 @@
 - Floyd's Triangle
 - Prime Factors
 - LCM & GCD
+- Permutations and Combinations
