@@ -100,3 +100,4 @@
 - Prime Factors
 - LCM & GCD
 - Permutations and Combinations
+- Decimal to base N
