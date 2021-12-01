@@ -62,6 +62,7 @@
 - Passing Array to Function
 - Return Array from Function
 - Pointer to an Array
+- Frequency of an Element in array
 
 #### 8. Strings
 
