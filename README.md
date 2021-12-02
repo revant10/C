@@ -102,3 +102,8 @@
 - LCM & GCD
 - Permutations and Combinations
 - Decimal to base N
+
+#### 13. Data Structures
+
+##### a. Stack
+        - Stack using array
