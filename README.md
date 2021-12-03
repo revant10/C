@@ -107,3 +107,6 @@
 
 ##### a. Stack
         - Stack using array
+
+##### b. Queue
+        - Single ended Queue using Array
