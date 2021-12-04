@@ -110,3 +110,4 @@
 
 ##### b. Queue
         - Single ended Queue using Array
+        - Double ended Queue using Array
