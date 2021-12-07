@@ -112,3 +112,4 @@
         - Single ended Queue using Array
         - Double ended Queue using Array
         - Circular Queue using Array
+        - Priority Queue using Array
