@@ -113,3 +113,8 @@
         - Double ended Queue using Array
         - Circular Queue using Array
         - Priority Queue using Array
+
+
+#### 14. DMA (Dynamic Memory Allocation)
+
+- Memory Allocation [malloc()]

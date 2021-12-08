@@ -1,0 +1,19 @@
+DMA: Dynamic Memory Allocation.
+
+
+1. malloc():
+-> The “malloc” or “memory allocation” method in C is used to
+-> dynamically allocate a "single large block of memory" with the specified size.
+
+2. calloc():
+-> The “calloc” or “contiguous allocation” method in C is used to
+-> dynamically allocate the "specified number of blocks of memory" of the specified type.
+
+3. free():
+-> The “free” method in C is used to dynamically de-allocate the memory.
+
+4. realloc():
+-> The “realloc” or “re-allocation” method in C is used to
+-> dynamically change the memory allocation of a previously allocated memory.
+-> In other words, if the memory previously allocated with the help of malloc
+-> or calloc is insufficient, realloc can be used to dynamically re-allocate memory. 
