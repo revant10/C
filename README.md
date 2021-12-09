@@ -118,3 +118,4 @@
 #### 14. DMA (Dynamic Memory Allocation)
 
 - Memory Allocation [malloc()]
+- Contiguous Allocation [calloc()]
