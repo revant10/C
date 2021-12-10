@@ -119,3 +119,4 @@
 
 - Memory Allocation [malloc()]
 - Contiguous Allocation [calloc()]
+- Re Allocation [realloc()]
