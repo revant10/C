@@ -120,3 +120,4 @@
 - Memory Allocation [malloc()]
 - Contiguous Allocation [calloc()]
 - Re Allocation [realloc()]
+- De-allocation [free()]
