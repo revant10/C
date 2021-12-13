@@ -83,6 +83,7 @@
 #### 10. Structures
 
 - Structure Basics
+- Singly Linked List
 
 #### 11. Unions
 
