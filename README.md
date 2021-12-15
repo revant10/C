@@ -84,6 +84,7 @@
 
 - Structure Basics
 - Singly Linked List
+- Doubly Linked List
 
 #### 11. Unions
 
