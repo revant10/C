@@ -123,3 +123,7 @@
 - Contiguous Allocation [calloc()]
 - Re Allocation [realloc()]
 - De-allocation [free()]
+
+#### 15. Sorting
+
+- Selection Sort
