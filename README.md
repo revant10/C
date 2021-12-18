@@ -127,3 +127,4 @@
 #### 15. Sorting
 
 - Selection Sort
+- Bubble Sort
