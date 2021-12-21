@@ -129,3 +129,4 @@
 - Selection Sort
 - Bubble Sort
 - Quick Sort
+- Insertion Sort
