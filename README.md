@@ -130,3 +130,4 @@
 - Bubble Sort
 - Quick Sort
 - Insertion Sort
+- Merge Sort
